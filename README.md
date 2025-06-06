@@ -17,3 +17,8 @@ Leetcode代码后续更新于：https://github.com/murphyhoucn/NPUCppCode/tree/m
 
 Google开源风格指南-Python 风格指南
 https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents.html
+
+## ModelDeploy
+> 2025.06.06
+https://github.com/open-mmlab/mmdeploy/tree/master/docs/zh_cn/tutorial
+
