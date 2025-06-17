@@ -2,3 +2,4 @@
 *.pth
 *.onnx
 *.engine
+*.jpg
