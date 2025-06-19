@@ -3,3 +3,4 @@
 *.onnx
 *.engine
 *.jpg
+PicAlign/data/*

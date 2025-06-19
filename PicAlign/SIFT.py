@@ -9,8 +9,8 @@ def get_current_time():
     return current_time
 
 # ---------- 参数配置 ----------
-IMG_DIR = '/mnt/houjinliang/MyDevProject/NPUDevCode/NPU-Everyday_all'               # 图像文件夹路径（请将原始RGB图像放在此处）
-OUT_DIR = '/mnt/houjinliang/MyDevProject/NPUDevCode/NPU-Everyday_all_align'       # 输出文件夹路径
+IMG_DIR = '/mnt/houjinliang/MyDevProject/NPUDevCode/PicAlign/data/NPU-Everyday_all'               # 图像文件夹路径（请将原始RGB图像放在此处）
+OUT_DIR = '/mnt/houjinliang/MyDevProject/NPUDevCode/PicAlign/data/NPU-Everyday_all_align'       # 输出文件夹路径
 RATIO_TEST = 0.75                # Lowe's ratio 测试阈值
 MIN_MATCH_COUNT = 10             # 最小有效匹配数量
 
