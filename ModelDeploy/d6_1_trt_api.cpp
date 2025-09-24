@@ -29,7 +29,7 @@ int main(int argc, char** argv)
         pool->getOutput(0)->setName(OUT_NAME);
         network->markOutput(*pool->getOutput(0));
 
-        // Build engine
+        // Build 
         IOptimizationProfile* profile = builder->createOptimizationProfile();
         profile->setDimensions(IN_NAME, OptProfileSelector::kMIN, Dims4(BATCH_SIZE, 3, IN_H, IN_W));
         profile->setDimensions(IN_NAME, OptProfileSelector::kOPT, Dims4(BATCH_SIZE, 3, IN_H, IN_W));

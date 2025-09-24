@@ -1,59 +1,53 @@
 # NPU Development Code Archieve
 
 ## Cherno CPP Code
-
-Cherno Cpp Lesson Video: https://www.youtube.com/watch?v=18c3MTX0PK0&ab_channel=TheCherno
-
-Notebook
-- https://cosmicdusty.cc/post/Knowledge/ChernoCPP_1/
-- https://cosmicdusty.cc/post/Knowledge/ChernoCPP_2/
+- [Cherno Cpp Lesson Video](https://www.youtube.com/watch?v=18c3MTX0PK0&ab_channel=TheCherno)
+- Notebook
+    - [ChernoCPP-1](https://blog.cosmicdusty.cc/post/Knowledge/ChernoCPP-1/)
+    - [ChernoCPP-2](https://blog.cosmicdusty.cc/post/Knowledge/ChernoCPP-2/)
 
 ## Essential CPP Code
-https://github.com/Relph1119/essential-cpp-notes
+[Essential CPP Notes](https://github.com/Relph1119/essential-cpp-notes)
 
 ## LeetCode
-Leetcode代码后续更新于：https://github.com/murphyhoucn/NPUCppCode/tree/main/LeetCode
+- [Murphy LeetCode Website](https://cosmicdusty.cc/Murphy-LeetCode/)
+- [Murphy LeetCode GitHub](https://github.com/murphyhoucn/Murphy-LeetCode)
 
 ## Python Try
-Google开源风格指南-Python 风格指南: https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents.html
+- [Google开源风格指南-Python 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents.html)
 
 ## ModelDeploy
-- https://github.com/open-mmlab/mmdeploy/tree/master/docs/zh_cn/tutorial
+- [MMDeploy Tutorial](https://github.com/open-mmlab/mmdeploy/tree/master/docs/zh_cn/tutorial)
 
 ## Linux Shell
-- https://mp.weixin.qq.com/s/fRRdFN-zDJmmbyVVvmO89w
+- [Linux Shell 教程](https://mp.weixin.qq.com/s/fRRdFN-zDJmmbyVVvmO89w)
 
-
-
-
-# NPU CPP Code
 
 ## C++ Primer
-《C++ Primer 中文版（第五版）》[美] 李普曼（Stanley B. Lippman）& [美] 拉乔伊（Josee Lajoie）& [美] 默（Barbara E. Moo） 电子工业出版社  2013年出版
+- 《C++ Primer 中文版（第五版）》[美] 李普曼（Stanley B. Lippman）& [美] 拉乔伊（Josee Lajoie）& [美] 默（Barbara E. Moo） 电子工业出版社  2013年出版
 
 ## CPP Primer Plus
-《C++ Primer Plus 中文版（第6版）》[美] 普拉达（Stephen Prata）人民邮电出版社  2012年出版
+- 《C++ Primer Plus 中文版（第6版）》[美] 普拉达（Stephen Prata）人民邮电出版社  2012年出版
 
 ## CUDA C Programming
-《CUDA C 编程权威指南》[美] 马克斯·格罗斯曼（Max Grossmen）& [美] 泰·麦克切尔（Ty McKercher） 机械工业出版社  2017年出版
+- 《CUDA C 编程权威指南》[美] 马克斯·格罗斯曼（Max Grossmen）& [美] 泰·麦克切尔（Ty McKercher） 机械工业出版社  2017年出版
 
 ## CUDA面经
-
-- [ CUDA 算子手撕与面试指南](https://github.com/Tongkaio/CUDA_Kernel_Samples)
+- [CUDA 算子手撕与面试指南](https://github.com/Tongkaio/CUDA_Kernel_Samples)
 
 ## CMU 15-213 Introduction to Computer Systems (ICS) 
-- https://www.cs.cmu.edu/~213/
-- http://csapp.cs.cmu.edu/3e/labs.html
-- https://www.bilibili.com/video/BV1iW411d7hd/?vd_source=6d46640a443a49f050af078d1f65143e
-- https://www.zhihu.com/tardis/zm/art/455061631?source_id=1003
-- https://www.cnblogs.com/xsqblogs/p/14688428.html
-- https://github.com/datawhalechina/team-learning-program/tree/master/ComputerSystems
-- https://github.com/Sixzeroo/CSAPP?tab=readme-ov-file
+- [CMU 15-213 Official Course](https://www.cs.cmu.edu/~213/)
+- [CSAPP Labs](http://csapp.cs.cmu.edu/3e/labs.html)
+- [Bilibili Video Course](https://www.bilibili.com/video/BV1iW411d7hd/?vd_source=6d46640a443a49f050af078d1f65143e)
+- [知乎文章](https://www.zhihu.com/tardis/zm/art/455061631?source_id=1003)
+- [博客园笔记](https://www.cnblogs.com/xsqblogs/p/14688428.html)
+- [Datawhale Team Learning](https://github.com/datawhalechina/team-learning-program/tree/master/ComputerSystems)
+- [CSAPP GitHub Repository](https://github.com/Sixzeroo/CSAPP?tab=readme-ov-file)
 
 ## CMU10-714: Deep Learning System
-- https://dlsyscourse.org/lectures/
-- https://csdiy.wiki/en/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F/CMU10-414/
-- https://www.bilibili.com/video/BV1hC4y1k7ks/?vd_source=6d46640a443a49f050af078d1f65143e
+- [Deep Learning Systems Course Lectures](https://dlsyscourse.org/lectures/)
+- [CSDIY Wiki Guide](https://csdiy.wiki/en/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F/CMU10-414/)
+- [Bilibili Video Course](https://www.bilibili.com/video/BV1hC4y1k7ks/?vd_source=6d46640a443a49f050af078d1f65143e)
 
 ## LLVM
 - [写给入门者的LLVM介绍](https://zhuanlan.zhihu.com/p/472813616)
@@ -61,7 +55,7 @@ Google开源风格指南-Python 风格指南: https://zh-google-styleguide.readt
 
 ## TVM
 - [TVM 学习指南（个人版）](https://zhuanlan.zhihu.com/p/560210215)
-- [tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn)
+- [TVM MLIR Learn Repository](https://github.com/BBuf/tvm_mlir_learn)
 
 ## Parallel Computing
 - [CMU 15-418/Stanford CS149: Parallel Computing](https://csdiy.wiki/en/%E5%B9%B6%E8%A1%8C%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/CS149/)
