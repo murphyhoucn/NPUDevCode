@@ -4,3 +4,12 @@
 *.engine
 *.jpg
 PicAlign/data/*
+
+
+# Mine
+CUDACProgramming/main
+LeetCode/main
+
+# Nsight
+*.qdrep
+*.sqlite
