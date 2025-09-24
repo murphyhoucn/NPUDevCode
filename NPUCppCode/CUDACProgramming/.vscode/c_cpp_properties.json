@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/mnt/houjinliang/cuda-11.3/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/mnt/houjinliang/cuda-11.3/bin/nvcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

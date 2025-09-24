@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+        "tasks": [
+                {
+                    "type": "shell",
+                    "label": "g++ build active file",   
+                    "command": "g++",       
+                    "args": [       
+                        "-g",       
+                        "-std=c++11",      
+                        "${file}",     
+                        "-o",     
+                        "${workspaceFolder}/main",       
+                        "`pkg-config", "--cflags", "--libs", "opencv4`",       
+                        "-I", "/usr/local/include",        
+                        "-I", "/usr/local/include/opencv4",       
+                        "-I", "/usr/local/include/opencv4/opencv2",       
+                        "-L", "/usr/local/lib",        
+                        "-l", "opencv_core",        
+                        "-l", "opencv_imgproc",        
+                        "-l", "opencv_imgcodecs",
+                        "-l", "opencv_video",        
+                        "-l", "opencv_ml",
+                        "-l", "opencv_highgui",
+                        "-l", "opencv_objdetect",
+                        "-l", "opencv_flann",
+                        "-l", "opencv_imgcodecs",
+                        "-l", "opencv_photo",
+                        "-l", "opencv_videoio"
+                    ],
+                    "options": {
+                        "cwd": "/usr/bin"
+                    },
+                    "group": { 
+                        "kind": "build",       
+                        "isDefault": true        
+                    }        
+                }
+            ],
+    "version": "2.0.0",
+  }
